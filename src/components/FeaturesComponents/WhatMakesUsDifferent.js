@@ -18,9 +18,13 @@ export default function WhatMakesUsDifferent() {
         <br/><br/>
         We collaborate with researchers and doctors to 
         <br/><br/>
-        <ul className='Bullets'>
+        <ul className='Bullets'  style={{ listStyleType: "disc" }} >
         <li >Help you get granular about your health and self-care with personalized insights, and</li>
-        <li > you with simple, sustainable products that get the job done</li>
+        <br/>
+
+        <li >Equip you with simple, sustainable products that get the job done</li>
+        <br/>
+
         </ul>
         No to-the-moon-and-back claims in this neck of the woods.
         <br/><br/>
