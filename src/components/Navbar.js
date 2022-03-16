@@ -1,5 +1,5 @@
 import React from 'react'
-import './Navbar.css';
+// import './Navbar.css';
 
 export default function Navbar() {
 
@@ -7,16 +7,16 @@ export default function Navbar() {
     <>
     <div className='Complete'>
         <div className="UpperHalf">
-            <div className="Time UpperHalf">
+            <div className="Time">
                 <img src = "./StatusBar/9_41.svg" alt="time"/>
             </div>
-            <div className="Signal UpperHalf RightUpperHalf">
+            <div className="Signal  RightUpperHalf">
                 <img src = "./StatusBar/signal.svg" alt="signal"/>
             </div>
-            <div className="WifiSignal  UpperHalf RightUpperHalf">
+            <div className="WifiSignal RightUpperHalf">
                <img src = "./StatusBar/wifi.svg" alt="wifi"/>
             </div>
-            <div className="BatteryIndicator  UpperHalf RightUpperHalf">
+            <div className="BatteryIndicator  RightUpperHalf">
                <img src = "./StatusBar/battery.svg" alt="battery"/>
             </div>
         </div>
