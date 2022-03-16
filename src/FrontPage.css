@@ -1,0 +1,210 @@
+.FrontPage {
+  position: absolute;
+  width: 375px;
+  height: 1725px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(
+    180deg,
+    #fff6fb 0%,
+    #e7f6fc 33.33%,
+    rgba(213, 224, 255, 0) 100%
+  );
+}
+
+.IntroHeading1 {
+  position: absolute;
+  width: 183px;
+  height: 30px;
+  left: 96px;
+  top: 146px;
+  font-family: "Reptile";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 30px;
+  color: #1b1b50;
+}
+
+.IntroTagLine {
+  position: absolute;
+  width: 290px;
+  height: 23px;
+  left: 42px;
+  top: 213px;
+  font-family: "Quicksand";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 22px;
+  text-align: center;
+  color: #1b1b50;
+}
+
+.IntroContent3 {
+  position: absolute;
+  width: 308px;
+  height: 75px;
+  left: 33px;
+  top: 273px;
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 179%;
+  color: #000000;
+}
+
+.IntroHorizontalLine {
+  position: absolute;
+  width: 297px;
+  height: 0px;
+  left: 46px;
+  top: 374px;
+
+  border: 1px solid #000000;
+}
+
+.IntroHeading2 {
+  position: absolute;
+  width: 177px;
+  height: 33px;
+  left: 99px;
+  top: 406px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 33px;
+
+  color: #1b1b50;
+}
+
+.IntroContent1 {
+  position: absolute;
+  width: 303px;
+  height: 132px;
+  left: 35px;
+  top: 476px;
+
+  font-family: "Reptile";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 33px;
+  line-height: 134.8%;
+  /* or 44px */
+
+  text-align: center;
+
+  color: #1b1b50;
+}
+
+.IntroContent2 {
+  position: absolute;
+  width: 308px;
+  height: 232px;
+  left: 33px;
+  top: 645px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 179%;
+  /* or 29px */
+
+  text-align: center;
+
+  color: #1b1b50;
+}
+
+.IntroIcons1 {
+  position: absolute;
+  width: 63.08px;
+  height: 63px;
+  left: 152px;
+  top: 904px;
+}
+
+.IntroIcons2 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 145px;
+  top: 1111px;
+}
+
+.IntroIcons3 {
+  position: absolute;
+  width: 70px;
+  height: 70px;
+  left: 145px;
+  top: 1324px;
+}
+
+.IntroIconsDescription1 {
+  position: absolute;
+  width: 309px;
+  height: 493px;
+  left: 32px;
+  top: 1005px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 179%;
+  text-align: center;
+  color: #1b1b50;
+}
+
+.IntroIconsDescription2 {
+  position: absolute;
+  width: 309px;
+  height: 493px;
+  left: 32px;
+  top: 1215px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 179%;
+  text-align: center;
+  color: #1b1b50;
+}
+
+.IntroIconsDescription3 {
+  position: absolute;
+  width: 309px;
+  height: 493px;
+  left: 32px;
+  top: 1455px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 179%;
+  text-align: center;
+  color: #1b1b50;
+}
+
+.Content4 {
+  position: absolute;
+  width: 308px;
+  height: 116px;
+  left: 33px;
+  top: 1564px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 179%;
+  text-align: center;
+
+  color: #1b1b50;
+}

@@ -1,0 +1,129 @@
+.TrackMood {
+  position: absolute;
+  width: 375px;
+  height: 431px;
+  left: 0px;
+  top: 3472px;
+
+  background: linear-gradient(180deg, #fff6fb 0%, #ffffff 100%);
+}
+
+.Heading1 {
+  position: absolute;
+  width: 245px;
+  height: 43px;
+  left: 30px;
+  top: 3511px;
+
+  font-family: "Reptile";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  /* or 43px */
+
+  color: #000000;
+}
+
+.Content1 {
+  position: absolute;
+  width: 308px;
+  height: 145px;
+  left: 33px;
+  top: 3577px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* or 29px */
+
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.Button1 {
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 45px;
+
+  position: absolute;
+  width: 315px;
+  height: 66px;
+  left: 30px;
+  top: 3755px;
+
+  background: linear-gradient(
+    288.62deg,
+    #6e8cf6 42.36%,
+    rgba(110, 213, 246, 0.93) 115.74%
+  );
+  box-shadow: 0px 2px 16px rgba(71, 222, 255, 0.33);
+  border-radius: 70px;
+}
+
+.Button1Text {
+  position: static;
+  width: 277px;
+  height: 30px;
+  left: 19px;
+  top: 18px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19.8605px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+
+.IndividualImages1 {
+  position: absolute;
+  width: 164px;
+  height: 164px;
+  left: 11px;
+  top: 3854px;
+}
+
+.IndividualImages2 {
+  position: absolute;
+  width: 164px;
+  height: 164px;
+  left: 200px;
+  top: 3854px;
+}
+
+.IndividualImages3 {
+  position: absolute;
+  width: 164px;
+  height: 164px;
+  left: 11px;
+  top: 4043px;
+}
+
+.IndividualImages4 {
+  position: absolute;
+  width: 164px;
+  height: 164px;
+  left: 200px;
+  top: 4043px;
+}
+
+.Images {
+  position: absolute;
+  height: 4244px;
+}

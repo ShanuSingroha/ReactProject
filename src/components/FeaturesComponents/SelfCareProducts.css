@@ -1,0 +1,141 @@
+.SelfCareProducts {
+  position: absolute;
+  width: 375px;
+  height: 411px;
+  left: 0px;
+  top: 2566px;
+  background: #dce9e9;
+}
+
+.Heading1 {
+  position: absolute;
+  width: 335px;
+  height: 66px;
+  left: 33px;
+  top: 2605px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 33px;
+
+  color: #1b1b50;
+}
+
+.Heading2 {
+  position: absolute;
+  width: 329px;
+  height: 86px;
+  left: 33px;
+  top: 2708px;
+
+  font-family: "Reptile";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  /* or 43px */
+
+  color: #000000;
+}
+
+.Content1 {
+  position: absolute;
+  width: 308px;
+  height: 145px;
+  left: 33px;
+  top: 2815px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* or 29px */
+
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.SelfCareButton {
+  border: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 18px 45px;
+
+  position: absolute;
+  width: 315px;
+  height: 66px;
+  left: 30px;
+  top: 2993px;
+
+  background: linear-gradient(
+    297.28deg,
+    #f66e6e 67.01%,
+    rgba(246, 110, 110, 0) 123.71%
+  );
+  filter: drop-shadow(0px 2px 6px rgba(255, 22, 64, 0.33));
+  border-radius: 70px;
+}
+
+.ButtonText {
+  position: static;
+  width: 237px;
+  height: 30px;
+  left: 39px;
+  top: 18px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 19.8605px;
+  line-height: 30px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: #ffffff;
+
+  /* Inside auto layout */
+
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  margin: 0px 10px;
+}
+
+.Content2 {
+  position: absolute;
+  width: 335px;
+  height: 33px;
+  left: 20px;
+  top: 3080px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 22px;
+  line-height: 33px;
+  /* identical to box height */
+
+  text-align: center;
+
+  color: rgba(0, 0, 0, 0.8);
+}
+
+.SelfCareImage {
+  z-index: -1;
+  position: absolute;
+  width: 375px;
+  height: 562px;
+  left: 0px;
+  top: 2910px;
+
+  background: linear-gradient(
+    180deg,
+    #dce9e9 11.21%,
+    rgba(220, 233, 233, 0.15) 42.17%
+  );
+}

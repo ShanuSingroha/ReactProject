@@ -1,24 +1,78 @@
 .Complete {
-  width: 100%;
+  position: absolute;
+  width: 375px;
   height: 103px;
   left: 0px;
   top: 0px;
-  border-radius: 0px 0px 30px 5px;
   background: rgba(255, 255, 255, 0.47);
   box-shadow: 0px 4px 14px rgba(24, 160, 251, 0.12);
   backdrop-filter: blur(4px);
+  /* Note: backdrop-filter has minimal browser support */
   border-radius: 0px 0px 14px 14px;
 }
-.UpperHalf {
+.StatusBar {
+  width: 375px;
+  position: absolute;
   left: 0%;
   right: 0%;
   top: 0%;
   bottom: 0%;
-  background: #ffffff;
-  mix-blend-mode: normal;
-  opacity: 0;
 }
-.RightUpperHalf {
+.Time {
+  position: absolute;
+  height: 18px;
+  left: 8.27%;
+  right: 83.73%;
+  top: 14.09px;
+  font-family: "SF Pro Display";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  /* identical to box height */
+
+  letter-spacing: 0.0703846px;
+
+  color: #000000;
 }
-.LowerHalf {
+.Signal {
+  position: absolute;
+  width: 17px;
+  height: 10.57px;
+  left: 294px;
+  top: 18.41px;
+}
+.WifiSignal {
+  position: absolute;
+  width: 14.34px;
+  height: 10.57px;
+  left: 316.66px;
+  top: 18.41px;
+}
+.BatteryIndicator {
+  position: absolute;
+  width: 24.25px;
+  height: 11px;
+  left: 336.5px;
+  top: 18px;
+}
+.NavBar {
+  position: absolute;
+  width: 375px;
+  height: 24px;
+  left: 24px;
+  top: 58px;
+}
+.Menu {
+  position: absolute;
+  left: 0;
+}
+.Cart {
+  position: absolute;
+  left: 254px;
+}
+.NotiBell {
+  position: absolute;
+  left: 302px;
+  right: 25px;
 }

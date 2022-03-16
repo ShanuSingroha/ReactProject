@@ -1,0 +1,14 @@
+.IntroComplete {
+  /* position: absolute; */
+  width: 375px;
+  height: 1725px;
+  left: 0px;
+  top: 0px;
+
+  background: linear-gradient(
+    180deg,
+    #fff6fb 0%,
+    #e7f6fc 33.33%,
+    rgba(213, 224, 255, 0) 100%
+  );
+}

@@ -1,45 +1,20 @@
 import React from 'react'
-// import './Navbar.css';
+import './Navbar.css';
 
 export default function Navbar() {
-
-  return (
-    <>
-    <div className='Complete'>
-        <div className="UpperHalf">
-            <div className="Time">
-                <img src = "./StatusBar/9_41.svg" alt="time"/>
-            </div>
-            <div className="Signal  RightUpperHalf">
-                <img src = "./StatusBar/signal.svg" alt="signal"/>
-            </div>
-            <div className="WifiSignal RightUpperHalf">
-               <img src = "./StatusBar/wifi.svg" alt="wifi"/>
-            </div>
-            <div className="BatteryIndicator  RightUpperHalf">
-               <img src = "./StatusBar/battery.svg" alt="battery"/>
-            </div>
+return (
+    <> 
+       <div className="Complete">
+        <img className='Time' src = "./StatusBar/9_41.svg" alt="time"/>
+        <img className="Signal" src = "./StatusBar/signal.svg" alt="signal"/>
+        <img className="WifiSignal" src = "./StatusBar/wifi.svg" alt="wifi"/>
+        <img className="BatteryIndicator"src = "./StatusBar/battery.svg" alt="battery"/>  
+        <div className="NavBar">
+        <img className="Menu" src = "./NavBar/menu.svg" alt="menu"/>
+        <img className="Cart" src = "./NavBar/shopping-cart.svg" alt="shopping-cart"/>
+        <img className="NotiBell" src = "./NavBar/bell.svg" alt="bell"/>
         </div>
-        <div className="LowerHalf">
-        <div className="LowerHalf Menu">
-            <img src = "./NavBar/menu.svg" alt="menu"/>
         </div>
-        <div className="LowerHalf Cart">
-             <img src = "./NavBar/shopping-cart.svg" alt="shopping-cart"/>
-        </div>
-        <div className="LowerHalf NotiBell">
-             <img src = "./NavBar/bell.svg" alt="bell"/>
-
-        </div>
-
-
-
-        </div>
-    </div>
-    
-    
-    
-    
-    </>
-  )
+</>
+)
 }

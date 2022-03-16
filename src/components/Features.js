@@ -13,13 +13,13 @@ export default function Features() {
   return (
     <>
     <WhatMakesUsDifferent/>   
-    
     <SelfCareProducts/>
     <TrackMood/>
-    <TrackYourPeriod/>
-    <Consultation/>
-    <CreateYourbox/>
-    <Conclusion/>
+    {/* <TrackYourPeriod/> */}
+
+    {/* <Consultation/> */}
+    {/* <CreateYourbox/> */}
+    {/* <Conclusion/> */}
     </>
   )
 }

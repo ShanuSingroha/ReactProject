@@ -1,34 +1,29 @@
 import React from 'react'
-
+import "./SelfCareProducts.css"
 export default function SelfCareProducts() {
   return (
     <>
         <div className="SelfCareProducts">
-            <div className="heading1">
+        </div>
+            <div className="Heading1">
                 Liberate your everyday wellness 
             </div>
-            <div className="heading2">
+            <div className="Heading2">
                Shop our self-care products
             </div>
-            <div className="content1">
+            <div className="Content1">
                Gentle formulations thoughtfully engineered by specialist researchers and doctors to simplify your self-care and get results fast. And, we always list our ingredients - so what you see is what you get.   
             </div>
-            <div className="SelfCareButton">
-                <button> Upgrade your self-care </button>
-            </div>
+           <button className="SelfCareButton">
+                <span className="ButtonText">
+                    Upgrade your self-care
+                </span>
+            </button>
             <div className="Content2">
                  #NoNasties, we promise!
             </div>
-            <div className="SelfCareImage">
-                <img src = "./content/pexels-karolina-grabowska-4041391.svg" alt = "SelfCareProductImage" ></img>
-            </div>
-
-
-
-
-        </div>
-
-
+            <img className="SelfCareImage" src = "./content/pexels-karolina-grabowska-4041391.svg" alt = "SelfCareProductImage" ></img>
+            
     </>
   )
 }
