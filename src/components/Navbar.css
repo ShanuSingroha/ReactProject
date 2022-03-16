@@ -1,0 +1,13 @@
+.Complete {
+  display: grid;
+  grid-template-rows: 40px 63px;
+}
+.UpperHalf {
+  display: inline;
+}
+.RightUpperHalf {
+  margin-right: 0;
+}
+.LowerHalf {
+  display: inline;
+}
