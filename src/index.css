@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "ReptileMedium";
+  src: url("../public/fonts/ReptileMedium.eot"); /* IE9 Compat Modes */
+  src: url("../public/fonts/ReptileMedium.eot?#iefix")
+      format("embedded-opentype"),
+    /* IE6-IE8 */ url("../public/fonts/ReptileMedium.woff2") format("woff2"),
+    /* Super Modern Browsers */ url("../public/fonts/ReptileMedium.woff")
+      format("woff"),
+    /* Pretty Modern Browsers */ url("../public/fonts/ReptileMedium.ttf")
+      format("truetype"),
+    /* Safari, Android, iOS */ url("../public/fonts/ReptileMedium.svg")
+      format("svg"); /* Legacy iOS */
+  font-weight: 400;
+  font-style: normal;
+}

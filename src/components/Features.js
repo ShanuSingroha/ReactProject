@@ -15,11 +15,11 @@ export default function Features() {
     <WhatMakesUsDifferent/>   
     <SelfCareProducts/>
     <TrackMood/>
-    {/* <TrackYourPeriod/> */}
+    <TrackYourPeriod/>
+    <Consultation/>
+    <CreateYourbox/>
+    <Conclusion/>  
 
-    {/* <Consultation/> */}
-    {/* <CreateYourbox/> */}
-    {/* <Conclusion/> */}
     </>
   )
 }

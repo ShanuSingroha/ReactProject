@@ -7,7 +7,7 @@
   background: #dce9e9;
 }
 
-.Heading1 {
+.SelfCareProductsHeading1 {
   position: absolute;
   width: 335px;
   height: 66px;
@@ -23,14 +23,14 @@
   color: #1b1b50;
 }
 
-.Heading2 {
+.SelfCareProductsHeading2 {
   position: absolute;
   width: 329px;
   height: 86px;
   left: 33px;
   top: 2708px;
 
-  font-family: "Reptile";
+  font-family: "ReptileMedium";
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
@@ -40,7 +40,7 @@
   color: #000000;
 }
 
-.Content1 {
+.SelfCareProductsContent1 {
   position: absolute;
   width: 308px;
   height: 145px;
@@ -57,7 +57,7 @@
   color: rgba(0, 0, 0, 0.8);
 }
 
-.SelfCareButton {
+.SelfCareProductsSelfCareButton {
   border: 0;
   display: flex;
   flex-direction: row;
@@ -80,7 +80,7 @@
   border-radius: 70px;
 }
 
-.ButtonText {
+.SelfCareProductsButtonText {
   position: static;
   width: 237px;
   height: 30px;
@@ -106,7 +106,7 @@
   margin: 0px 10px;
 }
 
-.Content2 {
+.SelfCareProductscontent2 {
   position: absolute;
   width: 335px;
   height: 33px;
@@ -125,7 +125,7 @@
   color: rgba(0, 0, 0, 0.8);
 }
 
-.SelfCareImage {
+.SelfCareProductsImage {
   z-index: -1;
   position: absolute;
   width: 375px;

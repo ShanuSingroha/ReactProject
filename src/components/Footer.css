@@ -1,0 +1,228 @@
+.Footer {
+  position: absolute;
+  width: 375px;
+  height: 390px;
+  left: 0px;
+  top: 6693px;
+
+  background: #050506;
+}
+
+.FacebookLogo {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 266px;
+  top: 6748px;
+}
+
+.TwitterLogo {
+  position: absolute;
+  width: 24px;
+  height: 24px;
+  left: 306px;
+  top: 6748px;
+}
+
+.FooterLinkColItem1 {
+  position: absolute;
+  width: 59px;
+  height: 29px;
+  left: 37px;
+  top: 6810px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* identical to box height, or 29px */
+
+  color: #ffffff;
+}
+
+.FooterLinkColItem2 {
+  position: absolute;
+  width: 80px;
+  height: 29px;
+  left: 37px;
+  top: 6839px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* identical to box height, or 29px */
+
+  color: #ffffff;
+}
+
+.FooterLinkColItem3 {
+  position: absolute;
+  width: 106px;
+  height: 29px;
+  left: 37px;
+  top: 6868px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* identical to box height, or 29px */
+
+  color: #ffffff;
+}
+
+.FooterLinkColItem4 {
+  position: absolute;
+  width: 60px;
+  height: 29px;
+  left: 37px;
+  top: 6897px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* identical to box height, or 29px */
+
+  color: #ffffff;
+}
+
+.FooterHrLine {
+  position: absolute;
+  width: 306px;
+  height: 0px;
+  left: 38px;
+  top: 6950px;
+
+  border: 1px solid #e3f4ff;
+}
+
+.arrowClassFooter1 {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  left: 63px;
+  right: 0%;
+  top: 7px;
+  bottom: 0%;
+}
+
+.arrowClassFooter2 {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  left: 83px;
+  right: 0%;
+  top: 7px;
+  bottom: 0%;
+}
+
+.arrowClassFooter3 {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  left: 110px;
+  right: 0%;
+  top: 7px;
+  bottom: 0%;
+}
+
+.arrowClassFooter4 {
+  height: 16px;
+  width: 16px;
+  position: absolute;
+  left: 65px;
+  right: 0%;
+  top: 7px;
+  bottom: 0%;
+}
+.FooterLine1 {
+  display: flex;
+  position: absolute;
+  width: 121px;
+  height: 18px;
+  left: 39px;
+  top: 6967px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 8.94737px;
+  line-height: 206.5%;
+  /* or 18px */
+  color: #ffffff;
+}
+
+.FooterLine2 {
+  position: absolute;
+  width: 216px;
+  height: 30px;
+  left: 39px;
+  top: 6991px;
+
+  background: rgba(255, 255, 255, 0.62);
+  border: 1px solid #e7f6fc;
+  box-sizing: border-box;
+  border-radius: 4px;
+}
+
+.FooterLine3 {
+  position: absolute;
+  width: 97px;
+  height: 25px;
+  left: 50px;
+  top: 6994px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 206.5%;
+  /* identical to box height, or 25px */
+
+  color: #000000;
+}
+
+.FooterLineButton1 {
+  border: 0;
+  position: absolute;
+  width: 85px;
+  height: 27.48px;
+  left: 262px;
+  top: 6992px;
+
+  background: #d6f4fb;
+  border: 1.2782px solid #e9f4ff;
+  box-sizing: border-box;
+  border-radius: 17.2556px;
+}
+
+.Button1Icon {
+  position: absolute;
+  width: 15.34px;
+  height: 15.34px;
+  left: 272px;
+  top: 6998px;
+}
+
+.Button1InfoText {
+  position: absolute;
+  width: 38.98px;
+  height: 18.53px;
+  left: 293.32px;
+  top: 6996.47px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 8.94737px;
+  line-height: 206.5%;
+  /* identical to box height, or 18px */
+
+  color: #1b1b50;
+}

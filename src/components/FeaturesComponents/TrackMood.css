@@ -8,14 +8,14 @@
   background: linear-gradient(180deg, #fff6fb 0%, #ffffff 100%);
 }
 
-.Heading1 {
+.TrackMoodHeading1 {
   position: absolute;
   width: 245px;
   height: 43px;
   left: 30px;
   top: 3511px;
 
-  font-family: "Reptile";
+  font-family: "ReptileMedium";
   font-style: normal;
   font-weight: 500;
   font-size: 32px;
@@ -25,7 +25,7 @@
   color: #000000;
 }
 
-.Content1 {
+.TrackMoodContent1 {
   position: absolute;
   width: 308px;
   height: 145px;
@@ -42,7 +42,7 @@
   color: rgba(0, 0, 0, 0.8);
 }
 
-.Button1 {
+.TrackMoodButton1 {
   border: 0;
   display: flex;
   flex-direction: row;
@@ -65,7 +65,7 @@
   border-radius: 70px;
 }
 
-.Button1Text {
+.TrackMoodButton1Text {
   position: static;
   width: 277px;
   height: 30px;
@@ -91,7 +91,7 @@
   margin: 0px 10px;
 }
 
-.IndividualImages1 {
+.TrackMoodIndividualImages1 {
   position: absolute;
   width: 164px;
   height: 164px;
@@ -99,7 +99,7 @@
   top: 3854px;
 }
 
-.IndividualImages2 {
+.TrackMoodIndividualImages2 {
   position: absolute;
   width: 164px;
   height: 164px;
@@ -107,7 +107,7 @@
   top: 3854px;
 }
 
-.IndividualImages3 {
+.TrackMoodIndividualImages3 {
   position: absolute;
   width: 164px;
   height: 164px;
@@ -115,7 +115,7 @@
   top: 4043px;
 }
 
-.IndividualImages4 {
+.TrackMoodIndividualImages4 {
   position: absolute;
   width: 164px;
   height: 164px;
@@ -123,7 +123,6 @@
   top: 4043px;
 }
 
-.Images {
-  position: absolute;
+.TrackMoodImages {
   height: 4244px;
 }

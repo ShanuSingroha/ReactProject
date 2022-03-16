@@ -1,0 +1,90 @@
+.CreateYourBox {
+  position: absolute;
+  width: 375px;
+  height: 646px;
+  left: 0px;
+  top: 5670px;
+
+  background: #f66e6e;
+}
+
+.CreateYourboxHeading1 {
+  position: absolute;
+  width: 335px;
+  height: 86px;
+  left: 33px;
+  top: 5709px;
+
+  font-family: "ReptileMedium";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 134.8%;
+  /* or 43px */
+
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.CreateYourboxImages1 {
+  position: absolute;
+  width: 387px;
+  height: 290px;
+  left: -12px;
+  top: 5765px;
+}
+
+.CreateYourboxContent1 {
+  position: absolute;
+  width: 308px;
+  height: 145px;
+  left: 33px;
+  top: 6043px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* or 29px */
+
+  color: rgba(255, 255, 255, 0.8);
+}
+
+.CreateYourboxButton1 {
+  border: 0;
+  position: absolute;
+  width: 287px;
+  height: 43px;
+  left: 44px;
+  top: 6221px;
+
+  background: #000000;
+  border-radius: 27px;
+}
+
+.CreateYourboxButton1Info {
+  position: absolute;
+  width: 217.49px;
+  height: 29px;
+  left: 70.91px;
+  top: 6228px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 206.5%;
+  /* identical to box height, or 29px */
+
+  color: #ffffff;
+}
+
+.arrowClass {
+  height: 24px;
+  width: 24px;
+  position: absolute;
+  left: 223px;
+  right: 0%;
+  top: 2px;
+  bottom: 0%;
+}
